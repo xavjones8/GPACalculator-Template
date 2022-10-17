@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.gpacalculator_master'
+    namespace 'com.example.gpacalculator_template'
     compileSdk 32
 
     defaultConfig {
-        applicationId "com.example.gpacalculator_master"
+        applicationId "com.example.gpacalculator_template"
         minSdk 26
         targetSdk 32
         versionCode 1
